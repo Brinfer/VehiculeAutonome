@@ -1,0 +1,9 @@
+/Debug/
+.cproject
+.cproject.xml
+.project
+.project.xml
+.settings/
+NUCLEO-F103RB.xml
+New_configuration.cfg
+lib/
